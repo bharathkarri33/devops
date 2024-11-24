@@ -1,7 +1,7 @@
 public class Prime {
 
     public static void main(String[] args) {
-        int number = 29;  // You can change this to test other numbers
+        int number = 2;  // You can change this to test other numbers
         if (isPrime(number)) {
             System.out.println(number + " is a prime number.");
         } else {
